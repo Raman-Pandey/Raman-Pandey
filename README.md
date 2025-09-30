@@ -58,26 +58,26 @@ I specialize in building scalable web applications and microservices
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raman-Pandey&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raman-Pandey&layout=compact&theme=radical)  
 
 ---
 
 ## 📈 GitHub Streak  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raman-Pandey&theme=radical)  
 
 ---
 
 ## 📊 Contribution Graph  
 
-![Raman's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=radical)  
+![Raman's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raman-Pandey&theme=radical)  
 
 ---
 
 ## 👀 Profile Views  
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=flat-square)  
+![Profile Views](https://komarev.com/ghpvc/?username=Raman-Pandey&color=blueviolet&style=flat-square)  
 
 ---
 
